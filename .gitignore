@@ -1,0 +1,14 @@
+# Indicadores y excepciones propios de cada organizacion: NO publicar
+iocs.local.psd1
+iocs.local.anterior_*.psd1
+iocs.anterior_*.psd1
+
+# Resultados de escaneos
+resultados/
+reports/
+state.xml
+*.log
+
+# Sistema
+desktop.ini
+Thumbs.db
