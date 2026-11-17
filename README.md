@@ -179,4 +179,4 @@ Los archivos `.psd1` son archivos de datos de PowerShell: comillas simples, elem
 
 ## Licencia
 
-Pendiente de definir.
+[MIT](LICENSE): se puede usar, modificar y redistribuir libremente, manteniendo el aviso de copyright. Se entrega sin garantía: un escaneo limpio no prueba que un equipo no esté comprometido.
